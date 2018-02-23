@@ -1,0 +1,8 @@
+cat spaces\ in\ this\ filename
+UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+
+Rationale:
+Spaces delimit arguments on the command line. To sidestep this, be sure to escape the spaces with '\'
+
+Cheating:
+Spam 'tab' to autocomplete the name.

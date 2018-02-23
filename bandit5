@@ -1,0 +1,7 @@
+find . -readable \! -executable -size 1033c
+cat ./inhere/maybehere07/.file2
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
+Rationale:
+Look into 'find' (man find).
+Only thing to note is the trailing 'c', indicating 1033 Bytes.

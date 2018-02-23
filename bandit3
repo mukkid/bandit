@@ -1,0 +1,7 @@
+cd inhere
+ls -la
+cat .hidden
+pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+
+Rationale:
+Hidden files are prepended with a dot ('.'). To view them, use the '-a' flag for ls

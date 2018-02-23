@@ -1,0 +1,8 @@
+cd inhere
+for f in *; do file "./$f"; done;
+cat ./-file07
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
+Rationale:
+
+Using 'file' to show the type of a file reveals which one is text. This can be automated a bit more by running the commands in a loop.

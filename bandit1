@@ -1,0 +1,7 @@
+cat ./-
+CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+
+Rationale:
+The '-' character is a special character that singnifies to 'cat' to use stdin as its intput source.
+To sidestep this problem, prefix with './'.
+Thus, 'cat ./-'
